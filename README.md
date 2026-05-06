@@ -1,16 +1,88 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kiran Hingankar</h1>
 
-<!--
-**kiranhingankar/kiranhingankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Software Engineer (4.10 yrs) • 🚀 Aspiring DevOps Engineer  
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-DevOps-blue" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange" />
+  <img src="https://img.shields.io/badge/CI/CD-Jenkins%20%7C%20GitHub%20Actions-green" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 💼 3.7 years as a Frontend Developer  
+- ⚙️ Currently working in DevOps domain  
+- 🔁 Transitioning into a full-time DevOps Engineer role with hands-on experience in CI/CD, Docker, Kubernetes, and AWS  
+- 📚 Building and learning in public  
+
+---
+
+## 🔥 Current Focus
+- 🚀 **#90DaysOfDevOps Challenge**  
+- 🛠️ Building real-world DevOps projects  
+- 📱 Sharing journey on Instagram  
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚙️ DevOps & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,jenkins,githubactions,git,terraform,ansible,bash" />
+</p>
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiranhingankar&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranhingankar&layout=compact" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kiranhingankar&theme=flat&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 📂 Featured Projects
+- 🔹 [90 Days of DevOps](#) – Daily DevOps learning journey  
+- 🔹 [Shell Scripts](#) – Automation scripts  
+- 🔹 [Python Scripts](#) – Utility scripts  
+- 🔹 [DevOps Notes](#) – Cheatsheets & notes  
+
+---
+
+## 📫 Connect With Me
+<p>
+<a href="https://www.linkedin.com/in/kiran-hingankar/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
+</a>
+<a href="mailto:hingankarkiran95@gmail.com">
+  <img src="https://img.shields.io/badge/Email-grey?logo=gmail" />
+</a>
+</p>
+
+---
+
+## ⚡ What I'm Looking For
+- 🚀 DevOps Engineer opportunities  
+- 🤝 Collaboration on real-world projects  
+- ☁️ Working with scalable cloud systems  
+
+---
+
+<p align="center">
+⭐ Always learning, building, and improving in public
+</p>
