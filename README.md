@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiran Hingankar</h1>
 
 <p align="center">
-💻 Software Engineer (4.10 yrs) • 🚀 Aspiring DevOps Engineer  
+💻 DevOps Engineer | CI/CD • Docker • Kubernetes • AWS | 4+ yrs Software Engineering  
 </p>
 
 <p align="center">
