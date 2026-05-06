@@ -21,9 +21,10 @@
 ---
 
 ## 🔥 Current Focus
-- 🚀 **#90DaysOfDevOps Challenge**  
-- 🛠️ Building real-world DevOps projects  
-- 📱 Sharing journey on Instagram  
+- Devops & Cloud Computing
+- Building real-world DevOps projects
+- CI/CD & Automation
+- #90DaysOfDevOps Challenge
 
 ---
 
