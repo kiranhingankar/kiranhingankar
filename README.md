@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiran Hingankar</h1>
 
 <p align="center">
-💻 DevOps Engineer | CI/CD • Docker • Kubernetes • AWS | 4+ yrs Software Engineering  
+💻 DevOps Engineer | CI/CD • Docker • Kubernetes • AWS • Terraform | 5+ yrs Software Engineering  
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 ---
 
 ## 🚀 About Me
-- 💼 3.7 years as a Frontend Developer  
+- 💼 2+ years as a Frontend Developer  
 - ⚙️ Currently working in DevOps domain  
-- 🔁 Transitioning into a full-time DevOps Engineer role with hands-on experience in CI/CD, Docker, Kubernetes, and AWS  
+- 🔁 Transitioning into a full-time DevOps Engineer role with hands-on experience in CI/CD, Docker, Kubernetes,Terraform and AWS  
 - 📚 Building and learning in public  
 
 ---
@@ -32,7 +32,7 @@
 
 ### ⚙️ DevOps & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,jenkins,githubactions,git,terraform,ansible,bash" />
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,jenkins,githubactions,git,terraform,ansible,bash,argocd, grafana" />
 </p>
 
 ### 🎨 Frontend
