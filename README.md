@@ -32,7 +32,7 @@
 
 ### ⚙️ DevOps & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,jenkins,githubactions,git,terraform,ansible,bash,argocd, grafana" />
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,jenkins,githubactions,gitterraform,ansible,bash,argocd,grafana" />
 </p>
 
 ### 🎨 Frontend
