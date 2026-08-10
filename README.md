@@ -60,7 +60,7 @@
 ## 📂 Featured Projects
 - 🔹 [90 Days of DevOps](https://github.com/kiranhingankar/90DaysOfDevOps) – Daily DevOps learning journey  
 - 🔹 [Shell Scripts](https://github.com/kiranhingankar/shell-scripts) – Automation scripts  
-- 🔹 [Python Scripts](https://github.com/kiranhingankar/python-scripts) – Utility scripts  
+- 🔹 [Python Scripts](https://github.com/kiranhingankar/python-for-devops) – Utility scripts  
 - 🔹 [DevOps Notes](https://github.com/kiranhingankar/devops-notes) – Cheatsheets & notes  
 
 ---
